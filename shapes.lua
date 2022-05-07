@@ -1182,7 +1182,7 @@
 		}
 	}
 	-- pinnatifid pinna scale 1
-	{350,
+	{40175350,
 		{
 			{
 				verts = {
@@ -1220,7 +1220,7 @@
 		}
 	}
 	--pinnatifid scale 3
-	{351,
+	{40175351,
 		{
 			{
 				verts = {
@@ -1255,7 +1255,7 @@
 		}
 	}
 	-- pellaea scale 1
-	{352,
+	{40175352,
 		{
 			{
 				verts = {
@@ -1277,7 +1277,7 @@
 			}
 		}
 	}
-	{353,
+	{40175353,
 		{
 			{
 				verts = {
@@ -1349,10 +1349,10 @@
 			}
 		}
 	}
-	{354, {}, mirror_of=353}
+	{40175354, {}, mirror_of=40175353}
 	
 	-- thick rachis
-	{355,
+	{40175355,
 		{
 			{
 				verts = {
@@ -1424,10 +1424,10 @@
 			}
 		}
 	}
-	{356, {}, mirror_of = 355}
+	{40175356, {}, mirror_of = 40175355}
 	
 	--simple pinna scale 1
-	{357,
+	{40175357,
 		{
 			{
 				verts = {
@@ -1445,7 +1445,7 @@
 		}
 	}
 	-- simple pinna scale 2
-	{358,
+	{40175358,
 		{
 			{
 				verts = {
@@ -1514,7 +1514,7 @@
 	
 	-- some barrel shrouds
 	-- concave shroud 1
-	{365, 
+	{40175365, 
 		{
 			{
 				verts = {

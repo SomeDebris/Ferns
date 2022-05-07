@@ -286,7 +286,7 @@
 		name = "Standard Rachis",
 		group = 24,
 		blurb = "The stem of the frond. Use it to support your pinnae!\n\nStandard rachis durability with a high growRate.",
-		shape = 353,
+		shape = 40175353,
 		scale = 1,
 		
 		durability = 3.5,
@@ -306,12 +306,12 @@
 	--{2494, extends = 2490, scale = 5}
 	--{2495, extends = 2490, scale = 6}
 	--(mirror)
-	{2496, extends = 2490, shape = 354, scale = 1}
-	{2497, extends = 2490, shape = 354, scale = 2}
-	{2498, extends = 2490, shape = 354, scale = 3}
-	{2499, extends = 2490, shape = 354, scale = 4}
-	--{2500, extends = 2490, shape = 354, scale = 5}
-	--{2501, extends = 2490, shape = 354, scale = 6}
+	{2496, extends = 2490, shape = 40175354, scale = 1}
+	{2497, extends = 2490, shape = 40175354, scale = 2}
+	{2498, extends = 2490, shape = 40175354, scale = 3}
+	{2499, extends = 2490, shape = 40175354, scale = 4}
+	--{2500, extends = 2490, shape = 40175354, scale = 5}
+	--{2501, extends = 2490, shape = 40175354, scale = 6}
 	
 	--pinnatifid
 	{2502,
@@ -338,7 +338,7 @@
 			{	
 				size = {7, 4.25},
 				offset = {-1.49,0,-0.05},
-				shape = 350,
+				shape = 40175350,
 				tri_color_id  = 0,
 				tri_color1_id = 1,
 				line_color_id = 2,
@@ -351,7 +351,7 @@
 			{
 				size = {14.9874, 7.5},
 				offset = {-2.3,0,-0.04},
-				shape = 351,
+				shape = 40175351,
 				tri_color_id  = 0,
 				tri_color1_id = 1,
 				line_color_id = 2,
@@ -364,7 +364,7 @@
 			{
 				size = {7, 4.25},
 				offset = {-1.2,0,-0.1},
-				shape = 352,
+				shape = 40175352,
 				tri_color_id  = 0,
 				tri_color1_id = 1,
 				line_color_id = 2,
@@ -378,7 +378,7 @@
 	-- thick rachis
 	{2507, 
 		extends = 2490, 
-		shape = 355
+		shape = 40175355
 		blurb = "A thicker stem of the frond. Use it to support your pinnae!\n\nStandard rachis durability with a high growRate."
 		scale = 1
 	}
@@ -386,7 +386,7 @@
 	{2509, extends = 2507, scale = 3}
 	{2510, extends = 2507, scale = 4}
 	-- mirror
-	{2511, extends = 2507, shape = 356, scale = 1}
+	{2511, extends = 2507, shape = 40175356, scale = 1}
 	{2512, extends = 2511, scale = 2}
 	{2513, extends = 2511, scale = 3}
 	{2514, extends = 2511, scale = 4}
@@ -396,7 +396,7 @@
 		name = "Tough Rachis",
 		group = 24,
 		blurb = "This durable rachis is a little heavier. Use it to support your pinnae!\n\nTough rachis durability with a standard growRate.",
-		shape = 353,
+		shape = 40175353,
 		scale = 1,
 		
 		durability = 9,
@@ -414,14 +414,14 @@
 	{2517, extends = 2515, scale = 3}
 	{2518, extends = 2515, scale = 4}
 	--(mirror)
-	{2519, extends = 2515, shape = 354, scale = 1}
-	{2520, extends = 2515, shape = 354, scale = 2}
-	{2521, extends = 2515, shape = 354, scale = 3}
-	{2522, extends = 2515, shape = 354, scale = 4}
+	{2519, extends = 2515, shape = 40175354, scale = 1}
+	{2520, extends = 2515, shape = 40175354, scale = 2}
+	{2521, extends = 2515, shape = 40175354, scale = 3}
+	{2522, extends = 2515, shape = 40175354, scale = 4}
 	
 	{2523, 
 		extends = 2515, 
-		shape = 355
+		shape = 40175355
 		blurb = "This durable rachis is a little heavier and a little thicker. Use it to support your pinnae!\n\nTough rachis durability with a standard growRate."
 		scale = 1
 	}
@@ -429,7 +429,7 @@
 	{2525, extends = 2523, scale = 3}
 	{2526, extends = 2523, scale = 4}
 	-- mirror
-	{2527, extends = 2523, shape = 356, scale = 1}
+	{2527, extends = 2523, shape = 40175356, scale = 1}
 	{2528, extends = 2527, scale = 2}
 	{2529, extends = 2527, scale = 3}
 	{2530, extends = 2527, scale = 4}
@@ -440,7 +440,7 @@
 			{
 				size = {7, 3},
 				offset = {.2,0.1,-0.05},
-				shape = 357,
+				shape = 40175357,
 				tri_color_id  = 0,
 				tri_color1_id = 1,
 				line_color_id = 2,
@@ -453,7 +453,7 @@
 			{
 				size = {10, 4},
 				offset = {.8,.1,-0.045},
-				shape = 357,
+				shape = 40175357,
 				tri_color_id  = 0,
 				tri_color1_id = 1,
 				line_color_id = 2,
@@ -466,7 +466,7 @@
 			{
 				size = {14.9874, 6.3885},
 				offset = {0.6,0,-0.04},
-				shape = 358,
+				shape = 40175358,
 				tri_color_id  = 0,
 				tri_color1_id = 1,
 				line_color_id = 2,
@@ -479,7 +479,7 @@
 			{
 				size = {10, 5.2},
 				offset = {-1.58,0,-0.045},
-				shape = 350,
+				shape = 40175350,
 				tri_color_id  = 0,
 				tri_color1_id = 1,
 				line_color_id = 2,
@@ -683,7 +683,7 @@
 		
 		shroud = {
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {3.5, 3.9}
 				offset = {1,0,0.22}
 				
@@ -692,7 +692,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {4, 3.1}
 				offset = {1.05,-0.02,.17}
 				angle = 0.015
@@ -701,7 +701,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {2, 2.4}
 				offset = {2.2,-.01,.14}
 				angle = -0.04
@@ -710,7 +710,7 @@
 				line_color_id = 2,
 			}
 			--{
-			--	shape = 365	--concave shroud 1
+			--	shape = 40175365	--concave shroud 1
 			--	size = {2, 2.3}
 			--	offset = {3,0,.09}
 			--	tri_color_id  = 0,
@@ -782,7 +782,7 @@
 		
 		shroud = {
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {7.1, 8.1}
 				offset = {1,0,0.33}
 				
@@ -791,7 +791,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {6.5, 6.75}
 				offset = {2,.1,.27}
 				angle = 0.02
@@ -800,7 +800,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {6.5, 6.75}
 				offset = {0.2,.1,.25}
 				angle = 0.02
@@ -809,7 +809,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {7, 5.9}
 				offset = {2.7,.05,.21}
 				angle = -0.05
@@ -818,7 +818,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {7.3, 5.2}
 				offset = {3.3,-.05,.2}
 				angle = 0.02
@@ -894,7 +894,7 @@
 		
 		shroud = {
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {7.1*2.3, 8.1*2.7}
 				offset = {.5,0,0.43}
 				
@@ -903,7 +903,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {6.5*2.3, 6.75*2.6}
 				offset = {1.4,.1,.36}
 				angle = 0.02
@@ -912,7 +912,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {6.5*2.3, 6.75*2.3}
 				offset = {2.5,.1,.32}
 				angle = -0.02
@@ -921,7 +921,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {7*2.3, 5.9*2.3}
 				offset = {3,.05,.26}
 				angle = -0.05
@@ -930,7 +930,7 @@
 				line_color_id = 2,
 			}
 			{
-				shape = 365	--concave shroud 1
+				shape = 40175365	--concave shroud 1
 				size = {7.3*2.3, 5.2*2.3}
 				offset = {5,-.05,.23}
 				angle = 0.02
