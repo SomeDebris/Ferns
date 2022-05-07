@@ -1,4 +1,6 @@
-FERNS, a faction mod for Reassembly.
+# FERNS
+
+**a faction mod for Reassembly.**
 
 This mod isn't playable nor is it designed to be playable.
 
