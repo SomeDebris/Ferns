@@ -19,4 +19,4 @@ Fun custom shapes designed to allow the user to produce organic looking ships.
 This project has been nagging at me for the longest time. I want to nip it right
 now so that I don't feel bad later.
 
-if you want to edit it, then, uhh, contact me and I'll allow you to push to this repo or something.
+if you want to edit it, then, uhh, create a PR or something. I'll look it over and I'll add it in to to this mod, would be kinda fun I guess. I won't do anything else with it, the project is done to me.
